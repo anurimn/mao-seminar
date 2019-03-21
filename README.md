@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 真央
 エルマス
 わかば
-
+kk
 # ディレクトリ構成
 ```
 seminar/
